@@ -128,7 +128,7 @@ elif command_line_args.add_number == None and command_line_args.run == None and 
      | |  __/ |  _ <  __/ |_) |  __/ |
      |_|\___|_|_| \_\___| .__/ \___|_|
                          |_|
-                     Powered by @VerityIntel
+     Powered by @VerityIntel
 {Fore.YELLOW}-----------------------------------------------{Fore.RESET}
  a tool for reporting telegram channels by @VerityIntel
  use --help to see help: python3 {argv[0]} --help
